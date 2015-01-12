@@ -1,0 +1,7 @@
+*.in
+*.out
+*.swp
+*.o
+swap
+maze
+nyr
